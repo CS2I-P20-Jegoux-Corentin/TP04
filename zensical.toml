@@ -1,0 +1,11 @@
+[project]
+name = "GW04 - GitHub Workflows"
+site_name = "GW04 - GitHub Workflows"
+
+[nav]
+pages = [
+  { title = "Accueil", path = "index.md" },
+  { title = "Cadre d'application", path = "cadre.md" },
+  { title = "Usages", path = "usages.md" },
+  { title = "Fonctionnement", path = "fonctionnement.md" }
+]
