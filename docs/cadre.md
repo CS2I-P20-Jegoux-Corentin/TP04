@@ -15,7 +15,6 @@ On peut les utiliser dans pleins de contextes différents :
 - Un projet personnel
 - Un projet open source
 - Un projet en équipe en entreprise
-- Un projet scolaire (comme ce TP !)
 
 ## Le CI/CD
 
